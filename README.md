@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Glitchood101
 - 👀 I’m interested in coding stuff
-- 🌱 I’m currently learning how to work with Lego EV3 Robots
+- 🌱 I’m currently learning how to work with Lego SPIKE Robots and Python
 - 💞️ I’m looking to collaborate with my FLL Team
 - 📫 How to reach me: kriv.jhajhria@gmail.com
 
