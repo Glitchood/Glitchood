@@ -6,7 +6,7 @@
 
 - 👀 Interested in stuff like Discord bots and coding webpages
 - 🌱 Currently learning Python
-- ✉️ Discord: glitchood :D
+- ✉️ Discord: `glitchood`
 - 📧 Email: kriv.jhajhria@gmail.com
 ### Statistics
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glitchood&layout=compact&theme=github_dark" alt="Glitchood" /></p>
