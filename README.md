@@ -5,5 +5,5 @@
 - ✉️ Discord: glitchood :D
 - 📧 Email: kriv.jhajhria@gmail.com
 
-![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Glitchood&layout=compact&theme=github_dark)
+![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Glitchood&layout=compact&theme=github_dark&show_icons=true)
 <img src="https://komarev.com/ghpvc/?username=Glitchood&style=for-the-badge" alt="Glitchood" />
