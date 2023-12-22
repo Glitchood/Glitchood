@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @Glitchood101
-- 👀 I’m interested in coding stuff like Discord Bots and webpages
-- 🌱 I’m currently learning Python
-- 📫 kriv.jhajhria@gmail.com
+## Hi 👋, I'm Glitchood
 
-<!---
-Glitchood101/Glitchood101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 Interested in stuff like Discord Bots and webpages
+- 🌱 Currently learning Python
+- 📫 Msg req me on Discord @ glitchood :)
+
+<img src="https://komarev.com/ghpvc/?username=Glitchood&style=for-the-badge" alt="Glitchood" />
