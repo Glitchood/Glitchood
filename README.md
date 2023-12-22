@@ -10,4 +10,4 @@
 - 📧 Email: kriv.jhajhria@gmail.com
 ### Statistics
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glitchood&layout=compact&theme=github_dark" alt="Glitchood" /></p>
-<p align="right"><img src="https://komarev.com/ghpvc/?username=Glitchood&style=for-the-badge" alt="Glitchood" /></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Glitchood&style=for-the-badge" alt="Glitchood" /></p>
